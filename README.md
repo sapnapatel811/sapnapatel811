@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Sapna Patel
 
-<!--
-**sapnapatel811/sapnapatel811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Data Science and Business Analytics @ UIC | GPA: 4.0  
+🧠 CRM Intern @ ERC | Break Through Tech AI Fellow | ML Intern @ IDX Exchange  
+💡 Passionate about AI/ML, data-driven product strategy, and inclusive tech.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** Python, C++, SQL, R, HTML/CSS  
+**Libraries/Tools:** Pandas, Scikit-learn, Excel (VBA, Solver), Power BI, Figma, GitHub  
+
+---
+
+## 🚀 Projects
+
+- **UCAN Fleet System** *(1st Place – FitchGroup Hackathon)*  
+  → Automated vehicle tracking with Power Automate + SharePoint
+
+- **Lost in Translation** *(Honorable Mention – UIC)*  
+  → Python-based French learning game using Turtle graphics
+
+---
+
+## 🌟 Highlights
+
+- 🧳 **Capital One Launchpad** (Top 5 Team)  
+- 🧑‍🏫 TA for Python Programming @ UIC  
+- 🌐 Web Developer @ Women in Cybersecurity  
+
+---
+
+## 📫 Connect with Me
+
+📍 Chicago, IL  
+📧 sapna81106@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/sapnapatel811) | [GitHub](https://github.com/sapnapatel811)
