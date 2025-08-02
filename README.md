@@ -15,7 +15,7 @@
 
 ## 🚀 Projects
 
-- **Capital One Externship** *(Top 5 Finalist – Launchpad Program)*
+- **Capital One Externship** *(Top 5 Finalist – Launchpad Program)*  
   → Pitched wellness-focused credit card strategy with Figma prototype and SWOT model
 
 - **UCAN Fleet System** *(1st Place – FitchGroup Hackathon)*  
