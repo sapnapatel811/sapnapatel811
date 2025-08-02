@@ -28,9 +28,9 @@
 
 ## 🌟 Highlights
 
-- 🧳 **Capital One Launchpad** (Top 5 Team)  
-- 🧑‍🏫 TA for Python Programming @ UIC  
 - 🌐 Web Developer @ Women in Cybersecurity  
+- 🧑‍🏫 TA for Python Programming @ UIC
+- 🧳 Marketing Committee Member @ UIC Alpha Kappa Psi
 
 ---
 
