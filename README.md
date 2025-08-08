@@ -9,7 +9,7 @@
 ## 🛠️ Tech Stack
 
 **Languages:** Python, C/C++, SQL, R, HTML/CSS  
-**Tools:** Canva, Excel (Macros, PivotTables, Power BI, Power Query, Solver, VBA, VLOOKUP), Figma, Google Workspace, Jupyter Notebook, Microsoft Office Suite, Power Automate, SharePoint
+**Tools:** Canva, Excel, Figma, Google Workspace, Jupyter Notebook, Microsoft Office Suite, Power Automate, SharePoint
 
 
 ---
