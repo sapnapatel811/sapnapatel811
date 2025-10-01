@@ -10,7 +10,7 @@
 
 **Languages:** Python, C/C++, SQL, R
 
-**Tools:** Excel, Figma, Google Workspace, Jupyter Notebook, Microsoft Office Suite, Power Automate, SharePoint API, Unix
+**Tools:** Excel, Figma, Google Workspace, Jupyter Notebook, Microsoft Office Suite, Power Automate, SharePoint API, Linux/Unix
 
 
 ---
