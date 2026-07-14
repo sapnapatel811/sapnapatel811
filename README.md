@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sapna Patel
 
-🎓 Data Science and Business Analytics @ UIC | GPA: 4.0  
-🧠 CRM Intern @ ERC | KPMG Break Through Tech AI Fellow | ML Intern @ IDX Exchange  
+🎓 Data Science and Business Analytics @ UIC | GPA: 3.9  
+🧠 PWM Intern @ William Blair | KPMG Break Through Tech AI Fellow 
 💡 Passionate about AI/ML, data-driven product strategy, and inclusive tech.
 
 ---
@@ -10,27 +10,14 @@
 
 **Languages:** Python, C/C++, SQL, R
 
-**Tools:** Excel, Figma, Google Workspace, Jupyter Notebook, Microsoft Office Suite, Power Automate, SharePoint API, Linux/Unix
+**Tools:** Anaconda Software, Canva/Figma, Excel, Gurobi Optimizer, Jupyter Notebook, Linux/Unix, Microsoft Suite/Power Platforms, Salesforce CRM, SharePoint API, Wealthscape Investor
 
-
----
-
-## 🚀 Projects
-
-- **Capital One Externship** *(Top 5 Finalist – Launchpad Program)*  
-  → Pitched wellness-focused credit card strategy with Figma prototype and SWOT model
-
-- **UCAN Fleet System** *(1st Place – FitchGroup Hackathon)*  
-  → Automated vehicle tracking with Power Automate + SharePoint
-
-- **Lost in Translation** *(Honorable Mention – UIC)*  
-  → Python-based French learning game using Turtle graphics
 
 ---
 
 ## 🌟 Highlights
 
-- 🌐 Web Administrator @ Women in Cybersecurity  
+- 🌐 CRM Intern @ Enery Resources Center
 - 🧑‍🏫 TA for Python Programming @ UIC
 - 🧳 Marketing Committee Member @ UIC Alpha Kappa Psi
 
