@@ -2,6 +2,7 @@
 
 🎓 Data Science and Business Analytics @ UIC | GPA: 3.9  
 🧠 PWM Intern @ William Blair | KPMG Break Through Tech AI Fellow
+
 💡 Passionate about AI/ML, data-driven product strategy, and inclusive tech.
 
 ---
