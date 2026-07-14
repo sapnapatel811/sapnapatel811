@@ -2,8 +2,7 @@
 
 🎓 Data Science and Business Analytics @ UIC | GPA: 3.9  
 🧠 PWM Intern @ William Blair | KPMG Break Through Tech AI Fellow
-
-💡 Passionate about AI/ML, data-driven product strategy, and inclusive tech.
+💡 Passionate about AI/ML, data-driven product strategy, and inclusive tech
 
 ---
 
@@ -18,7 +17,7 @@
 
 ## 🌟 Highlights
 
-- 🌐 CRM Intern @ Enery Resources Center
+- 🌐 CRM Intern @ Energy Resources Center
 - 🧑‍🏫 TA for Python Programming @ UIC
 - 🧳 Marketing Committee Member @ UIC Alpha Kappa Psi
 
